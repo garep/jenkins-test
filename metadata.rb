@@ -1,6 +1,6 @@
 name             'jenkins-test'
-maintainer       'YOUR_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'Gary Phelps'
+maintainer_email 'gary.phelps@hp.com'
 license          'All rights reserved'
 description      'Installs/Configures jenkins-test'
 long_description 'Installs/Configures jenkins-test'

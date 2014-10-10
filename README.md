@@ -4,7 +4,7 @@ TODO: Enter the cookbook description here.
 
 ## Supported Platforms
 
-TODO: List your supported platforms.
+TODO: Use this cookbook as Jenkins test for local jobs.
 
 ## Attributes
 
